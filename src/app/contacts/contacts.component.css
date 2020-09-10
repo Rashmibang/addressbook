@@ -1,0 +1,21 @@
+.data{
+   width:500%;
+   margin-left: 10%;
+    color: rgb(172, 27, 75);
+   font-size:25px;
+   font-family: 'Bad Script', cursive;
+}
+
+  
+
+   .subheading{
+       color: rgb(172, 27, 75);
+       font-size: 20px;
+       font-family: 'Bad Script', cursive;
+       font-weight: bold;
+       
+   }
+   .align{
+       margin-bottom: 10px;;
+   }
+  

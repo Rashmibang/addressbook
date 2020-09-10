@@ -1,0 +1,13 @@
+.flexcontainer{
+    display: flex;
+    justify-content: center;
+    width:100% ;
+}
+h3{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    font-size: 150%;
+    color: rgb(172, 27, 75);
+    }
+
+  

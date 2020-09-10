@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'addressbook';
+
+  selectedUser;
+
+  onNotify(value) {
+    console.log(value);
+    this.selectedUser =(value)
+  }
 }

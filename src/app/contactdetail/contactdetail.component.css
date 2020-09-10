@@ -1,0 +1,22 @@
+.details{
+    width:100%;
+    color: rgb(172, 27, 75);
+    margin-left: 50%;
+    max-width: 100%;
+    background-color:black;
+    padding:20px;
+    border:5px solid white;
+    font-family: 'Bad Script', cursive;
+    font-weight: bold;
+
+}
+
+.null{
+    width:100%;
+    color:whitesmoke;
+    padding:20%;
+    font-size: 200%;
+    margin-left: 50%;
+    font-family: 'Tangerine', cursive;
+    
+}

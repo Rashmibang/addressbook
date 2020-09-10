@@ -1,0 +1,17 @@
+
+    <div class="details" *ngIf='user!=null'>
+        <h2 color="red">Contact Details</h2>
+        Name: {{ user.name }}
+        <hr>
+        Address: {{ user.Address }}
+        <hr>
+        City: {{ user.city }}
+        <hr>
+        Phone: {{ user.phone }}
+        <hr>
+    </div>
+
+    <div class="null" *ngIf="user==null">
+        <h2>Click the particulars for details </h2>
+    </div>
+    

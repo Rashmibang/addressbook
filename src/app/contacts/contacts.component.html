@@ -1,0 +1,11 @@
+<div class="data">
+   <i class="fa fa-address-book"  style="color:white"> </i> Contacts
+   <div class="subheading" >
+      <ol>
+         <li class="align" *ngFor="let elements of users" (click)="onclick(elements)">
+            {{elements.name}}<br>
+            {{elements.city}}
+         </li>
+      </ol>
+   </div>
+</div>
