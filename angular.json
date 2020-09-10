@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "addressbook"
+    }
+  },
+  "defaultProject": "addressbook",
+  "cli": {
+    "analytics": "3e2fc646-8902-4212-871f-7ed651957eb4"
+  }
 }
